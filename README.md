@@ -4,4 +4,4 @@ Includes an enhancement to automatically update a user's stored encrypted passwo
 
 ## License
 
-MIT License. Copyright 2012 Reed Sandberg
+Copyright 2012 Plataformatec. http://plataformatec.com.br
